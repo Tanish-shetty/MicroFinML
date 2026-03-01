@@ -164,12 +164,9 @@ MicroFinML/
 │   │   └── main.tex                  # 25-page Springer chapter
 │   └── literature_review.xlsx        # 35 categorized papers
 │
-├── run_pipeline.py                   # Local ML pipeline only
-├── run_full_pipeline.py              # Complete BDA pipeline (all 5 phases)
+├── run_pipeline.py                   # Complete BDA pipeline (all 5 phases)
 ├── requirements.txt                  # Python dependencies
 ├── README.md                         # This file
-├── PROJECT_VERIFICATION.md           # IA requirements checklist
-├── SUBMISSION_CHECKLIST.md           # Submission guide
 └── .gitignore
 ```
 
@@ -229,7 +226,7 @@ python3 -c "import pyspark; print(f'PySpark {pyspark.__version__} installed')"
 Run all 5 phases (Local ML + Spark + Scalability + Blockchain + Literature):
 
 ```bash
-python3 run_full_pipeline.py
+python3 run_pipeline.py
 ```
 
 **Duration**: ~5-7 minutes  
@@ -242,16 +239,7 @@ python3 run_full_pipeline.py
 4. **Phase 4**: Blockchain audit trail demonstration
 5. **Phase 5**: Literature review generation
 
-### Option 2: Run Local ML Only
-
-```bash
-python3 run_pipeline.py
-```
-
-**Duration**: ~2-3 minutes  
-**Output**: Local models and evaluation only
-
-### Option 3: Interactive Notebooks
+### Option 2: Interactive Notebooks
 
 ```bash
 jupyter notebook
@@ -264,7 +252,7 @@ Open notebooks in order:
 4. `04_model_evaluation.ipynb` - Metrics + plots
 5. `05_bda_analysis.ipynb` - **Spark, scalability, blockchain, ethics**
 
-### Option 4: Individual Components
+### Option 3: Individual Components
 
 ```python
 # Preprocess data
