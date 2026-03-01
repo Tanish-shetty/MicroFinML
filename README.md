@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-Academic-green.svg)](LICENSE)
 
 > **Big Data Analytics — Internal Assessment (IA)**  
-> Third-Year AI & DS | Springer-Level Research Chapter  
+> Third-Year AI & DS =
 > **Topic:** Scalable Credit Scoring Framework for Microfinance Using Distributed Machine Learning
 
 ---
