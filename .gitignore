@@ -1,0 +1,24 @@
+# OpenMemory - IDE/Assistant specific rules
+.windsurf/rules/openmemory.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (large files)
+models/*.pkl
+
+# Data (large files)
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
