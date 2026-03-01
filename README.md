@@ -390,51 +390,8 @@ Output: `main.pdf` (25-page research chapter)
 
 ---
 
-## 🤝 Contributing
 
-This is an academic project for Internal Assessment. Contributions are welcome for:
-
-- Bug fixes
-- Documentation improvements
-- Additional models or features
-- Performance optimizations
-
-**To contribute:**
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 👥 Authors
-
-**Big Data Analytics — Internal Assessment Project**  
-Third-Year AI & Data Science
-
-- **Tanish Shetty** - [GitHub](https://github.com/Tanish-shetty)
-- **Shreyas Gurav** - Project Implementation
-
-**Supervisor**: [Faculty Name]  
-**Institution**: [University/College Name]  
-**Course**: Big Data Analytics (BDA)  
-**Academic Year**: 2025-2026
-
----
-
-## 📄 License
-
-This project is licensed for **Academic Use Only**.
-
-**Restrictions**:
-- May not be used for commercial purposes
-- Must cite original authors if used in research
-- Modifications must be documented
-
----
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Dataset**: Kaggle Loan Default Dataset
 - **Frameworks**: Apache Spark, scikit-learn, XGBoost
@@ -443,21 +400,3 @@ This project is licensed for **Academic Use Only**.
 
 ---
 
-## 📞 Contact
-
-For questions or collaboration:
-
-- **GitHub Issues**: [Create an issue](https://github.com/Tanish-shetty/MicroFinML/issues)
-- **Email**: [Your email]
-
----
-
-## 🌟 Star This Repository
-
-If you find this project useful for your research or learning, please ⭐ star this repository!
-
----
-
-**Last Updated**: March 2, 2026  
-**Version**: 1.0.0  
-**Status**: ✅ Complete and Ready for Submission
